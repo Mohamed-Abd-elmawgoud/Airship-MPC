@@ -1,0 +1,8 @@
+prefix=/home/catkin_ws/Airship-MPC/catkin_ws/devel
+
+Name: rviz_plugin_covariance
+Description: Description of rviz_plugin_covariance
+Version: 0.1.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/catkin_ws/Airship-MPC/catkin_ws/devel
+
+Name: blimp_nmpc_wrapper_node
+Description: Description of blimp_nmpc_wrapper_node
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

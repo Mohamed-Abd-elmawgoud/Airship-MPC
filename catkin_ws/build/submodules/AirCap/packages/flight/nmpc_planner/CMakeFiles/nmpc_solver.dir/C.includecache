@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/catkin_ws/Airship-MPC/catkin_ws/src/submodules/AirCap/packages/flight/nmpc_planner/include/solver/ldl.c
+solver.h
+/home/catkin_ws/Airship-MPC/catkin_ws/src/submodules/AirCap/packages/flight/nmpc_planner/include/solver/solver.h
+
+/home/catkin_ws/Airship-MPC/catkin_ws/src/submodules/AirCap/packages/flight/nmpc_planner/include/solver/matrix_support.c
+solver.h
+/home/catkin_ws/Airship-MPC/catkin_ws/src/submodules/AirCap/packages/flight/nmpc_planner/include/solver/solver.h
+
+/home/catkin_ws/Airship-MPC/catkin_ws/src/submodules/AirCap/packages/flight/nmpc_planner/include/solver/solver.c
+solver.h
+/home/catkin_ws/Airship-MPC/catkin_ws/src/submodules/AirCap/packages/flight/nmpc_planner/include/solver/solver.h
+
+/home/catkin_ws/Airship-MPC/catkin_ws/src/submodules/AirCap/packages/flight/nmpc_planner/include/solver/solver.h
+mex.h
+/home/catkin_ws/Airship-MPC/catkin_ws/src/submodules/AirCap/packages/flight/nmpc_planner/include/solver/mex.h
+stdio.h
+-
+math.h
+-
+
+/home/catkin_ws/Airship-MPC/catkin_ws/src/submodules/AirCap/packages/flight/nmpc_planner/include/solver/util.c
+solver.h
+/home/catkin_ws/Airship-MPC/catkin_ws/src/submodules/AirCap/packages/flight/nmpc_planner/include/solver/solver.h
+time.h
+-
+stdlib.h
+-
+math.h
+-
+

@@ -1,0 +1,9 @@
+\subsubsection parameters ROS parameters
+
+Reads and maintains the following parameters on the ROS server
+
+- \b "~height_model_mean" : \b [double] Mean min: 0.5, default: 1.8, max: 2.5
+- \b "~height_model_var" : \b [double] Variance min: 0.0, default: 1.0, max: 50.0
+- \b "~uncertainty_scale_head" : \b [double] Head Uncertainty Scale min: 0.0, default: 1.0, max: 50.0
+- \b "~uncertainty_scale_feet" : \b [double] Feet Uncertainty Scale min: 0.0, default: 1.0, max: 50.0
+

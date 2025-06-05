@@ -1,0 +1,20 @@
+\subsubsection parameters ROS parameters
+
+Reads and maintains the following parameters on the ROS server
+
+- \b "~posGlobalOffsetBiasX" : \b [double] posGlobalOffsetBiasX min: -25.0, default: 0.0, max: 25.0
+- \b "~posGlobalOffsetBiasY" : \b [double] posGlobalOffsetBiasY min: -25.0, default: 0.0, max: 25.0
+- \b "~posGlobalOffsetBiasZ" : \b [double] posGlobalOffsetBiasZ min: -25.0, default: 0.0, max: 25.0
+- \b "~noisePosXVar" : \b [double] noisePosXVar min: 0.0, default: 0.5, max: 5.0
+- \b "~noisePosYVar" : \b [double] noisePosYVar min: 0.0, default: 0.5, max: 5.0
+- \b "~noisePosZVar" : \b [double] noisePosZVar min: 0.0, default: 0.4, max: 5.0
+- \b "~noiseVelXVar" : \b [double] noiseVelXVar min: 0.0, default: 0.3, max: 20.0
+- \b "~noiseVelYVar" : \b [double] noiseVelYVar min: 0.0, default: 0.3, max: 20.0
+- \b "~noiseVelZVar" : \b [double] noiseVelZVar min: 0.0, default: 0.3, max: 20.0
+- \b "~noiseOffXVar" : \b [double] noiseOffXVar min: 0.0, default: 0.3, max: 20.0
+- \b "~noiseOffYVar" : \b [double] noiseOffYVar min: 0.0, default: 0.3, max: 20.0
+- \b "~noiseOffZVar" : \b [double] noiseOffZVar min: 0.0, default: 0.3, max: 20.0
+- \b "~velocityDecayTime" : \b [double] velocityDecayTime min: 0.0, default: 3.0, max: 10.0
+- \b "~offsetDecayTime" : \b [double] offsetDecayTime min: 0.0, default: 30.0, max: 300.0
+- \b "~falsePositiveThresholdSigma" : \b [double] falsePositiveThresholdSigma min: 0.0, default: 6.0, max: 50.0
+

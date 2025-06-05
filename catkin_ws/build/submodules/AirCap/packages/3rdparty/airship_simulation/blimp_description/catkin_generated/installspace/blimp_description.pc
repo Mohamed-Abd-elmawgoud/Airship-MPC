@@ -1,0 +1,8 @@
+prefix=/home/catkin_ws/Airship-MPC/catkin_ws/install
+
+Name: blimp_description
+Description: Description of blimp_description
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: controller_manager gazebo_ros joint_state_publisher robot_state_publisher rospy rviz

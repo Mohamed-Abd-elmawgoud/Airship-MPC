@@ -1,0 +1,8 @@
+prefix=/home/catkin_ws/Airship-MPC/catkin_ws/install
+
+Name: target_tracker_distributed_kf
+Description: Description of target_tracker_distributed_kf
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: std_msgs geometry_msgs roscpp

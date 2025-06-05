@@ -1,0 +1,10 @@
+\subsubsection usage Usage
+\verbatim
+<node name="generic_potential_field" pkg="generic_potential_field" type="generic_potential_field">
+  <param name="tPotFuncZeroD" type="double" value="0.5" />
+  <param name="tPotFuncInfD" type="double" value="0.2" />
+  <param name="tPotFuncSatValue" type="double" value="4.0" />
+  <param name="tPotFuncGain" type="double" value="100.0" />
+</node>
+\endverbatim
+

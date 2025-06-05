@@ -1,0 +1,21 @@
+\subsubsection usage Usage
+\verbatim
+<node name="target_tracker" pkg="target_tracker_distributed_kf" type="target_tracker">
+  <param name="posGlobalOffsetBiasX" type="double" value="0.0" />
+  <param name="posGlobalOffsetBiasY" type="double" value="0.0" />
+  <param name="posGlobalOffsetBiasZ" type="double" value="0.0" />
+  <param name="noisePosXVar" type="double" value="0.5" />
+  <param name="noisePosYVar" type="double" value="0.5" />
+  <param name="noisePosZVar" type="double" value="0.4" />
+  <param name="noiseVelXVar" type="double" value="0.3" />
+  <param name="noiseVelYVar" type="double" value="0.3" />
+  <param name="noiseVelZVar" type="double" value="0.3" />
+  <param name="noiseOffXVar" type="double" value="0.3" />
+  <param name="noiseOffYVar" type="double" value="0.3" />
+  <param name="noiseOffZVar" type="double" value="0.3" />
+  <param name="velocityDecayTime" type="double" value="3.0" />
+  <param name="offsetDecayTime" type="double" value="30.0" />
+  <param name="falsePositiveThresholdSigma" type="double" value="6.0" />
+</node>
+\endverbatim
+

@@ -1,0 +1,8 @@
+prefix=/home/catkin_ws/Airship-MPC/catkin_ws/install
+
+Name: pose_cov_ops
+Description: Description of pose_cov_ops
+Version: 0.3.7
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lpose_cov_ops
+Requires: geometry_msgs

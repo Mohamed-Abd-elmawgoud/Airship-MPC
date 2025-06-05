@@ -1,0 +1,8 @@
+prefix=/home/catkin_ws/Airship-MPC/catkin_ws/devel
+
+Name: model_distance_from_height
+Description: Description of model_distance_from_height
+Version: 0.0.0
+Cflags: -I/home/catkin_ws/Airship-MPC/catkin_ws/devel/include -I/home/catkin_ws/Airship-MPC/catkin_ws/src/submodules/AirCap/packages/flight/projection_models/model_distance_from_height/include
+Libs: -L${prefix}/lib 
+Requires: 

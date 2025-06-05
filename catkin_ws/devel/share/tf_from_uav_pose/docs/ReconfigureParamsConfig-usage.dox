@@ -1,0 +1,13 @@
+\subsubsection usage Usage
+\verbatim
+<node name="tf_from_uav_pose" pkg="tf_from_uav_pose" type="tf_from_uav_pose">
+  <param name="throttleRate" type="double" value="10.0" />
+  <param name="offsetX" type="double" value="0.0" />
+  <param name="offsetY" type="double" value="0.0" />
+  <param name="offsetZ" type="double" value="0.0" />
+  <param name="covarianceX" type="double" value="0.0" />
+  <param name="covarianceY" type="double" value="0.0" />
+  <param name="covarianceZ" type="double" value="0.0" />
+</node>
+\endverbatim
+

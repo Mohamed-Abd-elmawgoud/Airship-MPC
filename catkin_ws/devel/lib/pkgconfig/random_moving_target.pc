@@ -1,0 +1,8 @@
+prefix=/home/catkin_ws/Airship-MPC/catkin_ws/devel
+
+Name: random_moving_target
+Description: Description of random_moving_target
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

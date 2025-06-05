@@ -1,0 +1,9 @@
+\subsubsection usage Usage
+\verbatim
+<node name="librepilot_gazebo_bridge" pkg="librepilot_gazebo_bridge" type="librepilot_gazebo_bridge">
+  <param name="offsetX" type="double" value="0.0" />
+  <param name="offsetY" type="double" value="0.0" />
+  <param name="offsetZ" type="double" value="0.0" />
+</node>
+\endverbatim
+

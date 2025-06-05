@@ -1,0 +1,8 @@
+prefix=/home/catkin_ws/Airship-MPC/catkin_ws/install
+
+Name: nmpc_planner
+Description: Description of nmpc_planner
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lnmpc_solver -lmpc_solver_SSRR
+Requires: roscpp rospy

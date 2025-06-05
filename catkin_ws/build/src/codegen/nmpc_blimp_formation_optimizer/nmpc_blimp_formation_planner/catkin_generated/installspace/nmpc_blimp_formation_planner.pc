@@ -1,0 +1,8 @@
+prefix=/home/catkin_ws/Airship-MPC/catkin_ws/install
+
+Name: nmpc_blimp_formation_planner
+Description: Description of nmpc_blimp_formation_planner
+Version: 0.1.1
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime

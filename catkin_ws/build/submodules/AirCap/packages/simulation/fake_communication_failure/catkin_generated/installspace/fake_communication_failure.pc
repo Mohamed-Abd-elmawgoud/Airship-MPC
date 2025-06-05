@@ -1,0 +1,8 @@
+prefix=/home/catkin_ws/Airship-MPC/catkin_ws/install
+
+Name: fake_communication_failure
+Description: Description of fake_communication_failure
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,23 @@
+\subsubsection usage Usage
+\verbatim
+<node name="nmpc_planner" pkg="nmpc_planner" type="nmpc_planner">
+  <param name="neighborDistThreshold" type="double" value="7.0" />
+  <param name="approachAngleThreshold" type="double" value="0.5" />
+  <param name="distanceThresholdToTarget" type="double" value="8.0" />
+  <param name="copterDesiredHeightinNED" type="double" value="-8.0" />
+  <param name="maxOffsetUncertaintyRadius" type="double" value="3.0" />
+  <param name="targetGuaranteeThreshold" type="double" value="7.0" />
+  <param name="activeGuaranteeThreshold" type="double" value="1.0" />
+  <param name="obstacleGuaranteeThreshold" type="double" value="5.0" />
+  <param name="neighborGuaranteeThreshold" type="double" value="1.5" />
+  <param name="INTERNAL_SUB_STEP" type="double" value="0.1" />
+  <param name="deltaT" type="double" value="0.1" />
+  <param name="activeTrackingWeight" type="double" value="100.0" />
+  <param name="energyWeight" type="double" value="10.0" />
+  <param name="copterVelocityLimitHorizontal" type="double" value="5.0" />
+  <param name="copterVelocityLimitVertical" type="double" value="0.5" />
+  <param name="copterAccelarationLimitHorizontal" type="double" value="5.0" />
+  <param name="copterAccelarationLimitVertical" type="double" value="11.0" />
+</node>
+\endverbatim
+

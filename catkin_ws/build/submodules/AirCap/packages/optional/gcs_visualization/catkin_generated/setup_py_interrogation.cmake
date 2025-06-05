@@ -1,0 +1,7 @@
+set(gcs_visualization_SETUP_PY_SETUP_MODULE "distutils.core")
+set(gcs_visualization_SETUP_PY_VERSION "0.0.0")
+set(gcs_visualization_SETUP_PY_SCRIPTS "")
+set(gcs_visualization_SETUP_PY_PACKAGES "gcs_visualization")
+set(gcs_visualization_SETUP_PY_PACKAGE_DIRS "src/gcs_visualization")
+set(gcs_visualization_SETUP_PY_MODULES "")
+set(gcs_visualization_SETUP_PY_MODULE_DIRS "")

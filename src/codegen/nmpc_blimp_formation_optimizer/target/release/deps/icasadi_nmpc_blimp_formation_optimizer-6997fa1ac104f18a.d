@@ -1,0 +1,7 @@
+/home/catkin_ws/Airship-MPC/src/codegen/nmpc_blimp_formation_optimizer/target/release/deps/libicasadi_nmpc_blimp_formation_optimizer-6997fa1ac104f18a.rmeta: icasadi_nmpc_blimp_formation_optimizer/src/lib.rs
+
+/home/catkin_ws/Airship-MPC/src/codegen/nmpc_blimp_formation_optimizer/target/release/deps/libicasadi_nmpc_blimp_formation_optimizer-6997fa1ac104f18a.rlib: icasadi_nmpc_blimp_formation_optimizer/src/lib.rs
+
+/home/catkin_ws/Airship-MPC/src/codegen/nmpc_blimp_formation_optimizer/target/release/deps/icasadi_nmpc_blimp_formation_optimizer-6997fa1ac104f18a.d: icasadi_nmpc_blimp_formation_optimizer/src/lib.rs
+
+icasadi_nmpc_blimp_formation_optimizer/src/lib.rs:

@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/catkin_ws/Airship-MPC/catkin_ws/src/submodules/AirCap/packages/flight/nmpc_planner/include/solver_obstacles_SSRR/ldl.c
+solver.h
+/home/catkin_ws/Airship-MPC/catkin_ws/src/submodules/AirCap/packages/flight/nmpc_planner/include/solver_obstacles_SSRR/solver.h
+
+/home/catkin_ws/Airship-MPC/catkin_ws/src/submodules/AirCap/packages/flight/nmpc_planner/include/solver_obstacles_SSRR/matrix_support.c
+solver.h
+/home/catkin_ws/Airship-MPC/catkin_ws/src/submodules/AirCap/packages/flight/nmpc_planner/include/solver_obstacles_SSRR/solver.h
+
+/home/catkin_ws/Airship-MPC/catkin_ws/src/submodules/AirCap/packages/flight/nmpc_planner/include/solver_obstacles_SSRR/solver.c
+solver.h
+/home/catkin_ws/Airship-MPC/catkin_ws/src/submodules/AirCap/packages/flight/nmpc_planner/include/solver_obstacles_SSRR/solver.h
+
+/home/catkin_ws/Airship-MPC/catkin_ws/src/submodules/AirCap/packages/flight/nmpc_planner/include/solver_obstacles_SSRR/solver.h
+mex.h
+/home/catkin_ws/Airship-MPC/catkin_ws/src/submodules/AirCap/packages/flight/nmpc_planner/include/solver_obstacles_SSRR/mex.h
+stdio.h
+-
+math.h
+-
+
+/home/catkin_ws/Airship-MPC/catkin_ws/src/submodules/AirCap/packages/flight/nmpc_planner/include/solver_obstacles_SSRR/util.c
+solver.h
+/home/catkin_ws/Airship-MPC/catkin_ws/src/submodules/AirCap/packages/flight/nmpc_planner/include/solver_obstacles_SSRR/solver.h
+time.h
+-
+stdlib.h
+-
+math.h
+-
+

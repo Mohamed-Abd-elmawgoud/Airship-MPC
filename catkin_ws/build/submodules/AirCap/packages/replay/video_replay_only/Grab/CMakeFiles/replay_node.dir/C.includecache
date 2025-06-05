@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/catkin_ws/Airship-MPC/catkin_ws/src/submodules/AirCap/packages/replay/video_replay_only/Grab/src/libavhelper.c
+libavhelper.h
+/home/catkin_ws/Airship-MPC/catkin_ws/src/submodules/AirCap/packages/replay/video_replay_only/Grab/src/libavhelper.h
+
+/home/catkin_ws/Airship-MPC/catkin_ws/src/submodules/AirCap/packages/replay/video_replay_only/Grab/src/libavhelper.h
+stdlib.h
+-
+stdio.h
+-
+string.h
+-
+math.h
+-
+libavutil/avassert.h
+-
+libavutil/channel_layout.h
+-
+libavutil/opt.h
+-
+libavutil/mathematics.h
+-
+libavutil/timestamp.h
+-
+libavformat/avformat.h
+-
+libswscale/swscale.h
+-
+libswresample/swresample.h
+-
+

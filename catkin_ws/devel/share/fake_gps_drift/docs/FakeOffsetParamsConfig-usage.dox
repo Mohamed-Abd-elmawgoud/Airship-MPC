@@ -1,0 +1,9 @@
+\subsubsection usage Usage
+\verbatim
+<node name="fake_gps_drift" pkg="fake_gps_drift" type="fake_gps_drift">
+  <param name="offsetX" type="double" value="0.0" />
+  <param name="offsetY" type="double" value="0.0" />
+  <param name="offsetZ" type="double" value="0.0" />
+</node>
+\endverbatim
+

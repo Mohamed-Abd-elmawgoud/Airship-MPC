@@ -1,0 +1,9 @@
+\subsubsection parameters ROS parameters
+
+Reads and maintains the following parameters on the ROS server
+
+- \b "~tPotFuncZeroD" : \b [double] tPotFuncZeroD min: 0.0, default: 0.5, max: 5.0
+- \b "~tPotFuncInfD" : \b [double] tPotFuncInfD min: 0.0, default: 0.2, max: 5.0
+- \b "~tPotFuncSatValue" : \b [double] tPotFuncSatValue min: 0.0, default: 4.0, max: 15.0
+- \b "~tPotFuncGain" : \b [double] tPotFuncGain min: 0.0, default: 100.0, max: 500.0
+

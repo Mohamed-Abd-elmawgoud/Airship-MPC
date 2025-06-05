@@ -1,0 +1,12 @@
+\subsubsection parameters ROS parameters
+
+Reads and maintains the following parameters on the ROS server
+
+- \b "~throttleRate" : \b [double] throttleRate min: 0.0, default: 10.0, max: 1000.0
+- \b "~offsetX" : \b [double] offsetX min: -10.0, default: 0.0, max: 10.0
+- \b "~offsetY" : \b [double] offsetY min: -10.0, default: 0.0, max: 10.0
+- \b "~offsetZ" : \b [double] offsetZ min: -10.0, default: 0.0, max: 10.0
+- \b "~covarianceX" : \b [double] covarianceX min: 0.0, default: 0.0, max: 5.0
+- \b "~covarianceY" : \b [double] covarianceY min: 0.0, default: 0.0, max: 5.0
+- \b "~covarianceZ" : \b [double] covarianceZ min: 0.0, default: 0.0, max: 5.0
+
