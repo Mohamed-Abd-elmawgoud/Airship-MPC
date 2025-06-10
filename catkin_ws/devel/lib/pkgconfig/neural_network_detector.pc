@@ -3,6 +3,6 @@ prefix=/home/catkin_ws/Airship-MPC/catkin_ws/devel
 Name: neural_network_detector
 Description: Description of neural_network_detector
 Version: 0.0.0
-Cflags: -I/home/catkin_ws/Airship-MPC/catkin_ws/devel/include -I/home/catkin_ws/Airship-MPC/catkin_ws/src/submodules/AirCap/packages/flight/neural_network_detector/include
+Cflags: -I/home/catkin_ws/Airship-MPC/catkin_ws/src/submodules/AirCap/packages/flight/neural_network_detector/include
 Libs: -L${prefix}/lib 
-Requires: message_runtime std_msgs
+Requires: message_runtime std_msgs neural_network_msgs

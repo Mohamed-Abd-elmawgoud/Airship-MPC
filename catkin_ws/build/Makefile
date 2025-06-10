@@ -3288,6 +3288,201 @@ mav_planning_msgs_genpy/fast:
 .PHONY : mav_planning_msgs_genpy/fast
 
 #=============================================================================
+# Target rules for targets named neural_network_msgs_genpy
+
+# Build rule for target.
+neural_network_msgs_genpy: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 neural_network_msgs_genpy
+.PHONY : neural_network_msgs_genpy
+
+# fast build rule for target.
+neural_network_msgs_genpy/fast:
+	$(MAKE) -f submodules/AirCap/packages/custom_msgs/neural_network_msgs/CMakeFiles/neural_network_msgs_genpy.dir/build.make submodules/AirCap/packages/custom_msgs/neural_network_msgs/CMakeFiles/neural_network_msgs_genpy.dir/build
+.PHONY : neural_network_msgs_genpy/fast
+
+#=============================================================================
+# Target rules for targets named neural_network_msgs_generate_messages_py
+
+# Build rule for target.
+neural_network_msgs_generate_messages_py: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 neural_network_msgs_generate_messages_py
+.PHONY : neural_network_msgs_generate_messages_py
+
+# fast build rule for target.
+neural_network_msgs_generate_messages_py/fast:
+	$(MAKE) -f submodules/AirCap/packages/custom_msgs/neural_network_msgs/CMakeFiles/neural_network_msgs_generate_messages_py.dir/build.make submodules/AirCap/packages/custom_msgs/neural_network_msgs/CMakeFiles/neural_network_msgs_generate_messages_py.dir/build
+.PHONY : neural_network_msgs_generate_messages_py/fast
+
+#=============================================================================
+# Target rules for targets named neural_network_msgs_generate_messages
+
+# Build rule for target.
+neural_network_msgs_generate_messages: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 neural_network_msgs_generate_messages
+.PHONY : neural_network_msgs_generate_messages
+
+# fast build rule for target.
+neural_network_msgs_generate_messages/fast:
+	$(MAKE) -f submodules/AirCap/packages/custom_msgs/neural_network_msgs/CMakeFiles/neural_network_msgs_generate_messages.dir/build.make submodules/AirCap/packages/custom_msgs/neural_network_msgs/CMakeFiles/neural_network_msgs_generate_messages.dir/build
+.PHONY : neural_network_msgs_generate_messages/fast
+
+#=============================================================================
+# Target rules for targets named neural_network_msgs_generate_messages_cpp
+
+# Build rule for target.
+neural_network_msgs_generate_messages_cpp: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 neural_network_msgs_generate_messages_cpp
+.PHONY : neural_network_msgs_generate_messages_cpp
+
+# fast build rule for target.
+neural_network_msgs_generate_messages_cpp/fast:
+	$(MAKE) -f submodules/AirCap/packages/custom_msgs/neural_network_msgs/CMakeFiles/neural_network_msgs_generate_messages_cpp.dir/build.make submodules/AirCap/packages/custom_msgs/neural_network_msgs/CMakeFiles/neural_network_msgs_generate_messages_cpp.dir/build
+.PHONY : neural_network_msgs_generate_messages_cpp/fast
+
+#=============================================================================
+# Target rules for targets named neural_network_msgs_generate_messages_eus
+
+# Build rule for target.
+neural_network_msgs_generate_messages_eus: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 neural_network_msgs_generate_messages_eus
+.PHONY : neural_network_msgs_generate_messages_eus
+
+# fast build rule for target.
+neural_network_msgs_generate_messages_eus/fast:
+	$(MAKE) -f submodules/AirCap/packages/custom_msgs/neural_network_msgs/CMakeFiles/neural_network_msgs_generate_messages_eus.dir/build.make submodules/AirCap/packages/custom_msgs/neural_network_msgs/CMakeFiles/neural_network_msgs_generate_messages_eus.dir/build
+.PHONY : neural_network_msgs_generate_messages_eus/fast
+
+#=============================================================================
+# Target rules for targets named neural_network_msgs_generate_messages_nodejs
+
+# Build rule for target.
+neural_network_msgs_generate_messages_nodejs: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 neural_network_msgs_generate_messages_nodejs
+.PHONY : neural_network_msgs_generate_messages_nodejs
+
+# fast build rule for target.
+neural_network_msgs_generate_messages_nodejs/fast:
+	$(MAKE) -f submodules/AirCap/packages/custom_msgs/neural_network_msgs/CMakeFiles/neural_network_msgs_generate_messages_nodejs.dir/build.make submodules/AirCap/packages/custom_msgs/neural_network_msgs/CMakeFiles/neural_network_msgs_generate_messages_nodejs.dir/build
+.PHONY : neural_network_msgs_generate_messages_nodejs/fast
+
+#=============================================================================
+# Target rules for targets named _neural_network_msgs_generate_messages_check_deps_NeuralNetworkDetection
+
+# Build rule for target.
+_neural_network_msgs_generate_messages_check_deps_NeuralNetworkDetection: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 _neural_network_msgs_generate_messages_check_deps_NeuralNetworkDetection
+.PHONY : _neural_network_msgs_generate_messages_check_deps_NeuralNetworkDetection
+
+# fast build rule for target.
+_neural_network_msgs_generate_messages_check_deps_NeuralNetworkDetection/fast:
+	$(MAKE) -f submodules/AirCap/packages/custom_msgs/neural_network_msgs/CMakeFiles/_neural_network_msgs_generate_messages_check_deps_NeuralNetworkDetection.dir/build.make submodules/AirCap/packages/custom_msgs/neural_network_msgs/CMakeFiles/_neural_network_msgs_generate_messages_check_deps_NeuralNetworkDetection.dir/build
+.PHONY : _neural_network_msgs_generate_messages_check_deps_NeuralNetworkDetection/fast
+
+#=============================================================================
+# Target rules for targets named _neural_network_msgs_generate_messages_check_deps_NeuralNetworkDetectionArray
+
+# Build rule for target.
+_neural_network_msgs_generate_messages_check_deps_NeuralNetworkDetectionArray: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 _neural_network_msgs_generate_messages_check_deps_NeuralNetworkDetectionArray
+.PHONY : _neural_network_msgs_generate_messages_check_deps_NeuralNetworkDetectionArray
+
+# fast build rule for target.
+_neural_network_msgs_generate_messages_check_deps_NeuralNetworkDetectionArray/fast:
+	$(MAKE) -f submodules/AirCap/packages/custom_msgs/neural_network_msgs/CMakeFiles/_neural_network_msgs_generate_messages_check_deps_NeuralNetworkDetectionArray.dir/build.make submodules/AirCap/packages/custom_msgs/neural_network_msgs/CMakeFiles/_neural_network_msgs_generate_messages_check_deps_NeuralNetworkDetectionArray.dir/build
+.PHONY : _neural_network_msgs_generate_messages_check_deps_NeuralNetworkDetectionArray/fast
+
+#=============================================================================
+# Target rules for targets named neural_network_msgs_genlisp
+
+# Build rule for target.
+neural_network_msgs_genlisp: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 neural_network_msgs_genlisp
+.PHONY : neural_network_msgs_genlisp
+
+# fast build rule for target.
+neural_network_msgs_genlisp/fast:
+	$(MAKE) -f submodules/AirCap/packages/custom_msgs/neural_network_msgs/CMakeFiles/neural_network_msgs_genlisp.dir/build.make submodules/AirCap/packages/custom_msgs/neural_network_msgs/CMakeFiles/neural_network_msgs_genlisp.dir/build
+.PHONY : neural_network_msgs_genlisp/fast
+
+#=============================================================================
+# Target rules for targets named neural_network_msgs_geneus
+
+# Build rule for target.
+neural_network_msgs_geneus: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 neural_network_msgs_geneus
+.PHONY : neural_network_msgs_geneus
+
+# fast build rule for target.
+neural_network_msgs_geneus/fast:
+	$(MAKE) -f submodules/AirCap/packages/custom_msgs/neural_network_msgs/CMakeFiles/neural_network_msgs_geneus.dir/build.make submodules/AirCap/packages/custom_msgs/neural_network_msgs/CMakeFiles/neural_network_msgs_geneus.dir/build
+.PHONY : neural_network_msgs_geneus/fast
+
+#=============================================================================
+# Target rules for targets named _neural_network_msgs_generate_messages_check_deps_NeuralNetworkFeedback
+
+# Build rule for target.
+_neural_network_msgs_generate_messages_check_deps_NeuralNetworkFeedback: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 _neural_network_msgs_generate_messages_check_deps_NeuralNetworkFeedback
+.PHONY : _neural_network_msgs_generate_messages_check_deps_NeuralNetworkFeedback
+
+# fast build rule for target.
+_neural_network_msgs_generate_messages_check_deps_NeuralNetworkFeedback/fast:
+	$(MAKE) -f submodules/AirCap/packages/custom_msgs/neural_network_msgs/CMakeFiles/_neural_network_msgs_generate_messages_check_deps_NeuralNetworkFeedback.dir/build.make submodules/AirCap/packages/custom_msgs/neural_network_msgs/CMakeFiles/_neural_network_msgs_generate_messages_check_deps_NeuralNetworkFeedback.dir/build
+.PHONY : _neural_network_msgs_generate_messages_check_deps_NeuralNetworkFeedback/fast
+
+#=============================================================================
+# Target rules for targets named _neural_network_msgs_generate_messages_check_deps_NeuralNetworkNumberOfDetections
+
+# Build rule for target.
+_neural_network_msgs_generate_messages_check_deps_NeuralNetworkNumberOfDetections: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 _neural_network_msgs_generate_messages_check_deps_NeuralNetworkNumberOfDetections
+.PHONY : _neural_network_msgs_generate_messages_check_deps_NeuralNetworkNumberOfDetections
+
+# fast build rule for target.
+_neural_network_msgs_generate_messages_check_deps_NeuralNetworkNumberOfDetections/fast:
+	$(MAKE) -f submodules/AirCap/packages/custom_msgs/neural_network_msgs/CMakeFiles/_neural_network_msgs_generate_messages_check_deps_NeuralNetworkNumberOfDetections.dir/build.make submodules/AirCap/packages/custom_msgs/neural_network_msgs/CMakeFiles/_neural_network_msgs_generate_messages_check_deps_NeuralNetworkNumberOfDetections.dir/build
+.PHONY : _neural_network_msgs_generate_messages_check_deps_NeuralNetworkNumberOfDetections/fast
+
+#=============================================================================
+# Target rules for targets named neural_network_msgs_gencpp
+
+# Build rule for target.
+neural_network_msgs_gencpp: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 neural_network_msgs_gencpp
+.PHONY : neural_network_msgs_gencpp
+
+# fast build rule for target.
+neural_network_msgs_gencpp/fast:
+	$(MAKE) -f submodules/AirCap/packages/custom_msgs/neural_network_msgs/CMakeFiles/neural_network_msgs_gencpp.dir/build.make submodules/AirCap/packages/custom_msgs/neural_network_msgs/CMakeFiles/neural_network_msgs_gencpp.dir/build
+.PHONY : neural_network_msgs_gencpp/fast
+
+#=============================================================================
+# Target rules for targets named neural_network_msgs_generate_messages_lisp
+
+# Build rule for target.
+neural_network_msgs_generate_messages_lisp: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 neural_network_msgs_generate_messages_lisp
+.PHONY : neural_network_msgs_generate_messages_lisp
+
+# fast build rule for target.
+neural_network_msgs_generate_messages_lisp/fast:
+	$(MAKE) -f submodules/AirCap/packages/custom_msgs/neural_network_msgs/CMakeFiles/neural_network_msgs_generate_messages_lisp.dir/build.make submodules/AirCap/packages/custom_msgs/neural_network_msgs/CMakeFiles/neural_network_msgs_generate_messages_lisp.dir/build
+.PHONY : neural_network_msgs_generate_messages_lisp/fast
+
+#=============================================================================
+# Target rules for targets named neural_network_msgs_gennodejs
+
+# Build rule for target.
+neural_network_msgs_gennodejs: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 neural_network_msgs_gennodejs
+.PHONY : neural_network_msgs_gennodejs
+
+# fast build rule for target.
+neural_network_msgs_gennodejs/fast:
+	$(MAKE) -f submodules/AirCap/packages/custom_msgs/neural_network_msgs/CMakeFiles/neural_network_msgs_gennodejs.dir/build.make submodules/AirCap/packages/custom_msgs/neural_network_msgs/CMakeFiles/neural_network_msgs_gennodejs.dir/build
+.PHONY : neural_network_msgs_gennodejs/fast
+
+#=============================================================================
 # Target rules for targets named neural_network_detector_overlay_only
 
 # Build rule for target.
@@ -3312,201 +3507,6 @@ neural_network_detector_node: cmake_check_build_system
 neural_network_detector_node/fast:
 	$(MAKE) -f submodules/AirCap/packages/flight/neural_network_detector/CMakeFiles/neural_network_detector_node.dir/build.make submodules/AirCap/packages/flight/neural_network_detector/CMakeFiles/neural_network_detector_node.dir/build
 .PHONY : neural_network_detector_node/fast
-
-#=============================================================================
-# Target rules for targets named neural_network_detector_genpy
-
-# Build rule for target.
-neural_network_detector_genpy: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 neural_network_detector_genpy
-.PHONY : neural_network_detector_genpy
-
-# fast build rule for target.
-neural_network_detector_genpy/fast:
-	$(MAKE) -f submodules/AirCap/packages/flight/neural_network_detector/CMakeFiles/neural_network_detector_genpy.dir/build.make submodules/AirCap/packages/flight/neural_network_detector/CMakeFiles/neural_network_detector_genpy.dir/build
-.PHONY : neural_network_detector_genpy/fast
-
-#=============================================================================
-# Target rules for targets named neural_network_detector_generate_messages_py
-
-# Build rule for target.
-neural_network_detector_generate_messages_py: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 neural_network_detector_generate_messages_py
-.PHONY : neural_network_detector_generate_messages_py
-
-# fast build rule for target.
-neural_network_detector_generate_messages_py/fast:
-	$(MAKE) -f submodules/AirCap/packages/flight/neural_network_detector/CMakeFiles/neural_network_detector_generate_messages_py.dir/build.make submodules/AirCap/packages/flight/neural_network_detector/CMakeFiles/neural_network_detector_generate_messages_py.dir/build
-.PHONY : neural_network_detector_generate_messages_py/fast
-
-#=============================================================================
-# Target rules for targets named neural_network_detector_generate_messages
-
-# Build rule for target.
-neural_network_detector_generate_messages: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 neural_network_detector_generate_messages
-.PHONY : neural_network_detector_generate_messages
-
-# fast build rule for target.
-neural_network_detector_generate_messages/fast:
-	$(MAKE) -f submodules/AirCap/packages/flight/neural_network_detector/CMakeFiles/neural_network_detector_generate_messages.dir/build.make submodules/AirCap/packages/flight/neural_network_detector/CMakeFiles/neural_network_detector_generate_messages.dir/build
-.PHONY : neural_network_detector_generate_messages/fast
-
-#=============================================================================
-# Target rules for targets named neural_network_detector_geneus
-
-# Build rule for target.
-neural_network_detector_geneus: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 neural_network_detector_geneus
-.PHONY : neural_network_detector_geneus
-
-# fast build rule for target.
-neural_network_detector_geneus/fast:
-	$(MAKE) -f submodules/AirCap/packages/flight/neural_network_detector/CMakeFiles/neural_network_detector_geneus.dir/build.make submodules/AirCap/packages/flight/neural_network_detector/CMakeFiles/neural_network_detector_geneus.dir/build
-.PHONY : neural_network_detector_geneus/fast
-
-#=============================================================================
-# Target rules for targets named _neural_network_detector_generate_messages_check_deps_NeuralNetworkFeedback
-
-# Build rule for target.
-_neural_network_detector_generate_messages_check_deps_NeuralNetworkFeedback: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 _neural_network_detector_generate_messages_check_deps_NeuralNetworkFeedback
-.PHONY : _neural_network_detector_generate_messages_check_deps_NeuralNetworkFeedback
-
-# fast build rule for target.
-_neural_network_detector_generate_messages_check_deps_NeuralNetworkFeedback/fast:
-	$(MAKE) -f submodules/AirCap/packages/flight/neural_network_detector/CMakeFiles/_neural_network_detector_generate_messages_check_deps_NeuralNetworkFeedback.dir/build.make submodules/AirCap/packages/flight/neural_network_detector/CMakeFiles/_neural_network_detector_generate_messages_check_deps_NeuralNetworkFeedback.dir/build
-.PHONY : _neural_network_detector_generate_messages_check_deps_NeuralNetworkFeedback/fast
-
-#=============================================================================
-# Target rules for targets named neural_network_detector_generate_messages_eus
-
-# Build rule for target.
-neural_network_detector_generate_messages_eus: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 neural_network_detector_generate_messages_eus
-.PHONY : neural_network_detector_generate_messages_eus
-
-# fast build rule for target.
-neural_network_detector_generate_messages_eus/fast:
-	$(MAKE) -f submodules/AirCap/packages/flight/neural_network_detector/CMakeFiles/neural_network_detector_generate_messages_eus.dir/build.make submodules/AirCap/packages/flight/neural_network_detector/CMakeFiles/neural_network_detector_generate_messages_eus.dir/build
-.PHONY : neural_network_detector_generate_messages_eus/fast
-
-#=============================================================================
-# Target rules for targets named _neural_network_detector_generate_messages_check_deps_NeuralNetworkNumberOfDetections
-
-# Build rule for target.
-_neural_network_detector_generate_messages_check_deps_NeuralNetworkNumberOfDetections: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 _neural_network_detector_generate_messages_check_deps_NeuralNetworkNumberOfDetections
-.PHONY : _neural_network_detector_generate_messages_check_deps_NeuralNetworkNumberOfDetections
-
-# fast build rule for target.
-_neural_network_detector_generate_messages_check_deps_NeuralNetworkNumberOfDetections/fast:
-	$(MAKE) -f submodules/AirCap/packages/flight/neural_network_detector/CMakeFiles/_neural_network_detector_generate_messages_check_deps_NeuralNetworkNumberOfDetections.dir/build.make submodules/AirCap/packages/flight/neural_network_detector/CMakeFiles/_neural_network_detector_generate_messages_check_deps_NeuralNetworkNumberOfDetections.dir/build
-.PHONY : _neural_network_detector_generate_messages_check_deps_NeuralNetworkNumberOfDetections/fast
-
-#=============================================================================
-# Target rules for targets named neural_network_detector_generate_messages_lisp
-
-# Build rule for target.
-neural_network_detector_generate_messages_lisp: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 neural_network_detector_generate_messages_lisp
-.PHONY : neural_network_detector_generate_messages_lisp
-
-# fast build rule for target.
-neural_network_detector_generate_messages_lisp/fast:
-	$(MAKE) -f submodules/AirCap/packages/flight/neural_network_detector/CMakeFiles/neural_network_detector_generate_messages_lisp.dir/build.make submodules/AirCap/packages/flight/neural_network_detector/CMakeFiles/neural_network_detector_generate_messages_lisp.dir/build
-.PHONY : neural_network_detector_generate_messages_lisp/fast
-
-#=============================================================================
-# Target rules for targets named _neural_network_detector_generate_messages_check_deps_NeuralNetworkDetectionArray
-
-# Build rule for target.
-_neural_network_detector_generate_messages_check_deps_NeuralNetworkDetectionArray: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 _neural_network_detector_generate_messages_check_deps_NeuralNetworkDetectionArray
-.PHONY : _neural_network_detector_generate_messages_check_deps_NeuralNetworkDetectionArray
-
-# fast build rule for target.
-_neural_network_detector_generate_messages_check_deps_NeuralNetworkDetectionArray/fast:
-	$(MAKE) -f submodules/AirCap/packages/flight/neural_network_detector/CMakeFiles/_neural_network_detector_generate_messages_check_deps_NeuralNetworkDetectionArray.dir/build.make submodules/AirCap/packages/flight/neural_network_detector/CMakeFiles/_neural_network_detector_generate_messages_check_deps_NeuralNetworkDetectionArray.dir/build
-.PHONY : _neural_network_detector_generate_messages_check_deps_NeuralNetworkDetectionArray/fast
-
-#=============================================================================
-# Target rules for targets named neural_network_detector_generate_messages_nodejs
-
-# Build rule for target.
-neural_network_detector_generate_messages_nodejs: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 neural_network_detector_generate_messages_nodejs
-.PHONY : neural_network_detector_generate_messages_nodejs
-
-# fast build rule for target.
-neural_network_detector_generate_messages_nodejs/fast:
-	$(MAKE) -f submodules/AirCap/packages/flight/neural_network_detector/CMakeFiles/neural_network_detector_generate_messages_nodejs.dir/build.make submodules/AirCap/packages/flight/neural_network_detector/CMakeFiles/neural_network_detector_generate_messages_nodejs.dir/build
-.PHONY : neural_network_detector_generate_messages_nodejs/fast
-
-#=============================================================================
-# Target rules for targets named neural_network_detector_generate_messages_cpp
-
-# Build rule for target.
-neural_network_detector_generate_messages_cpp: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 neural_network_detector_generate_messages_cpp
-.PHONY : neural_network_detector_generate_messages_cpp
-
-# fast build rule for target.
-neural_network_detector_generate_messages_cpp/fast:
-	$(MAKE) -f submodules/AirCap/packages/flight/neural_network_detector/CMakeFiles/neural_network_detector_generate_messages_cpp.dir/build.make submodules/AirCap/packages/flight/neural_network_detector/CMakeFiles/neural_network_detector_generate_messages_cpp.dir/build
-.PHONY : neural_network_detector_generate_messages_cpp/fast
-
-#=============================================================================
-# Target rules for targets named neural_network_detector_gencpp
-
-# Build rule for target.
-neural_network_detector_gencpp: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 neural_network_detector_gencpp
-.PHONY : neural_network_detector_gencpp
-
-# fast build rule for target.
-neural_network_detector_gencpp/fast:
-	$(MAKE) -f submodules/AirCap/packages/flight/neural_network_detector/CMakeFiles/neural_network_detector_gencpp.dir/build.make submodules/AirCap/packages/flight/neural_network_detector/CMakeFiles/neural_network_detector_gencpp.dir/build
-.PHONY : neural_network_detector_gencpp/fast
-
-#=============================================================================
-# Target rules for targets named neural_network_detector_genlisp
-
-# Build rule for target.
-neural_network_detector_genlisp: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 neural_network_detector_genlisp
-.PHONY : neural_network_detector_genlisp
-
-# fast build rule for target.
-neural_network_detector_genlisp/fast:
-	$(MAKE) -f submodules/AirCap/packages/flight/neural_network_detector/CMakeFiles/neural_network_detector_genlisp.dir/build.make submodules/AirCap/packages/flight/neural_network_detector/CMakeFiles/neural_network_detector_genlisp.dir/build
-.PHONY : neural_network_detector_genlisp/fast
-
-#=============================================================================
-# Target rules for targets named _neural_network_detector_generate_messages_check_deps_NeuralNetworkDetection
-
-# Build rule for target.
-_neural_network_detector_generate_messages_check_deps_NeuralNetworkDetection: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 _neural_network_detector_generate_messages_check_deps_NeuralNetworkDetection
-.PHONY : _neural_network_detector_generate_messages_check_deps_NeuralNetworkDetection
-
-# fast build rule for target.
-_neural_network_detector_generate_messages_check_deps_NeuralNetworkDetection/fast:
-	$(MAKE) -f submodules/AirCap/packages/flight/neural_network_detector/CMakeFiles/_neural_network_detector_generate_messages_check_deps_NeuralNetworkDetection.dir/build.make submodules/AirCap/packages/flight/neural_network_detector/CMakeFiles/_neural_network_detector_generate_messages_check_deps_NeuralNetworkDetection.dir/build
-.PHONY : _neural_network_detector_generate_messages_check_deps_NeuralNetworkDetection/fast
-
-#=============================================================================
-# Target rules for targets named neural_network_detector_gennodejs
-
-# Build rule for target.
-neural_network_detector_gennodejs: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 neural_network_detector_gennodejs
-.PHONY : neural_network_detector_gennodejs
-
-# fast build rule for target.
-neural_network_detector_gennodejs/fast:
-	$(MAKE) -f submodules/AirCap/packages/flight/neural_network_detector/CMakeFiles/neural_network_detector_gennodejs.dir/build.make submodules/AirCap/packages/flight/neural_network_detector/CMakeFiles/neural_network_detector_gennodejs.dir/build
-.PHONY : neural_network_detector_gennodejs/fast
 
 #=============================================================================
 # Target rules for targets named roll_pitch_yawrate_thrust_controller_node
@@ -4866,23 +4866,23 @@ help:
 	@echo "... mav_planning_msgs_generate_messages_py"
 	@echo "... _mav_planning_msgs_generate_messages_check_deps_PlannerService"
 	@echo "... mav_planning_msgs_genpy"
+	@echo "... neural_network_msgs_genpy"
+	@echo "... neural_network_msgs_generate_messages_py"
+	@echo "... neural_network_msgs_generate_messages"
+	@echo "... neural_network_msgs_generate_messages_cpp"
+	@echo "... neural_network_msgs_generate_messages_eus"
+	@echo "... neural_network_msgs_generate_messages_nodejs"
+	@echo "... _neural_network_msgs_generate_messages_check_deps_NeuralNetworkDetection"
+	@echo "... _neural_network_msgs_generate_messages_check_deps_NeuralNetworkDetectionArray"
+	@echo "... neural_network_msgs_genlisp"
+	@echo "... neural_network_msgs_geneus"
+	@echo "... _neural_network_msgs_generate_messages_check_deps_NeuralNetworkFeedback"
+	@echo "... _neural_network_msgs_generate_messages_check_deps_NeuralNetworkNumberOfDetections"
+	@echo "... neural_network_msgs_gencpp"
+	@echo "... neural_network_msgs_generate_messages_lisp"
+	@echo "... neural_network_msgs_gennodejs"
 	@echo "... neural_network_detector_overlay_only"
 	@echo "... neural_network_detector_node"
-	@echo "... neural_network_detector_genpy"
-	@echo "... neural_network_detector_generate_messages_py"
-	@echo "... neural_network_detector_generate_messages"
-	@echo "... neural_network_detector_geneus"
-	@echo "... _neural_network_detector_generate_messages_check_deps_NeuralNetworkFeedback"
-	@echo "... neural_network_detector_generate_messages_eus"
-	@echo "... _neural_network_detector_generate_messages_check_deps_NeuralNetworkNumberOfDetections"
-	@echo "... neural_network_detector_generate_messages_lisp"
-	@echo "... _neural_network_detector_generate_messages_check_deps_NeuralNetworkDetectionArray"
-	@echo "... neural_network_detector_generate_messages_nodejs"
-	@echo "... neural_network_detector_generate_messages_cpp"
-	@echo "... neural_network_detector_gencpp"
-	@echo "... neural_network_detector_genlisp"
-	@echo "... _neural_network_detector_generate_messages_check_deps_NeuralNetworkDetection"
-	@echo "... neural_network_detector_gennodejs"
 	@echo "... roll_pitch_yawrate_thrust_controller_node"
 	@echo "... lee_position_controller_node"
 	@echo "... roll_pitch_yawrate_thrust_controller"

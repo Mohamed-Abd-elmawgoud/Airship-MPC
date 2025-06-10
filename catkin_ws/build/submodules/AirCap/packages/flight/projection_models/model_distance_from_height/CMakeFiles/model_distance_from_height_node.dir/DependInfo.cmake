@@ -25,7 +25,6 @@ set(CMAKE_CXX_TARGET_INCLUDE_PATH
   "/home/catkin_ws/Airship-MPC/catkin_ws/src/submodules/AirCap/packages/flight/projection_models/model_distance_from_height/include"
   "/opt/ros/noetic/include"
   "/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp"
-  "/home/catkin_ws/Airship-MPC/catkin_ws/src/submodules/AirCap/packages/flight/neural_network_detector/include"
   "/home/catkin_ws/Airship-MPC/catkin_ws/src/submodules/AirCap/packages/3rdparty/pose_cov_ops/include"
   "/home/catkin_ws/Airship-MPC/catkin_ws/src/submodules/AirCap/packages/flight/pose_cov_ops_interface/include"
   )

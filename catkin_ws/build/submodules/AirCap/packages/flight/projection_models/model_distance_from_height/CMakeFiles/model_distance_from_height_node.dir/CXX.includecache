@@ -24,7 +24,7 @@ dynamic_reconfigure/config_init_mutex.h
 boost/any.hpp
 -
 
-/home/catkin_ws/Airship-MPC/catkin_ws/devel/include/neural_network_detector/NeuralNetworkDetection.h
+/home/catkin_ws/Airship-MPC/catkin_ws/devel/include/neural_network_msgs/NeuralNetworkDetection.h
 string
 -
 vector
@@ -42,7 +42,7 @@ ros/message_operations.h
 std_msgs/Header.h
 -
 
-/home/catkin_ws/Airship-MPC/catkin_ws/devel/include/neural_network_detector/NeuralNetworkDetectionArray.h
+/home/catkin_ws/Airship-MPC/catkin_ws/devel/include/neural_network_msgs/NeuralNetworkDetectionArray.h
 string
 -
 vector
@@ -59,10 +59,10 @@ ros/message_operations.h
 -
 std_msgs/Header.h
 -
-neural_network_detector/NeuralNetworkDetection.h
+neural_network_msgs/NeuralNetworkDetection.h
 -
 
-/home/catkin_ws/Airship-MPC/catkin_ws/devel/include/neural_network_detector/NeuralNetworkFeedback.h
+/home/catkin_ws/Airship-MPC/catkin_ws/devel/include/neural_network_msgs/NeuralNetworkFeedback.h
 string
 -
 vector
@@ -117,9 +117,9 @@ models/Model3D.h
 /home/catkin_ws/Airship-MPC/catkin_ws/src/submodules/AirCap/packages/flight/projection_models/model_distance_from_height/include/model_distance_from_height/models/Model3D.h
 ros/ros.h
 -
-neural_network_detector/NeuralNetworkDetectionArray.h
+neural_network_msgs/NeuralNetworkDetectionArray.h
 -
-neural_network_detector/NeuralNetworkFeedback.h
+neural_network_msgs/NeuralNetworkFeedback.h
 -
 geometry_msgs/TransformStamped.h
 -

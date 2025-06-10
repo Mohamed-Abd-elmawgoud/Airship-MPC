@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/catkin_ws/Airship-MPC/catkin_ws/devel/include/neural_network_detector/NeuralNetworkDetection.h
+/home/catkin_ws/Airship-MPC/catkin_ws/devel/include/neural_network_msgs/NeuralNetworkDetection.h
 string
 -
 vector
@@ -24,7 +24,7 @@ ros/message_operations.h
 std_msgs/Header.h
 -
 
-/home/catkin_ws/Airship-MPC/catkin_ws/devel/include/neural_network_detector/NeuralNetworkDetectionArray.h
+/home/catkin_ws/Airship-MPC/catkin_ws/devel/include/neural_network_msgs/NeuralNetworkDetectionArray.h
 string
 -
 vector
@@ -41,10 +41,10 @@ ros/message_operations.h
 -
 std_msgs/Header.h
 -
-neural_network_detector/NeuralNetworkDetection.h
+neural_network_msgs/NeuralNetworkDetection.h
 -
 
-/home/catkin_ws/Airship-MPC/catkin_ws/devel/include/neural_network_detector/NeuralNetworkFeedback.h
+/home/catkin_ws/Airship-MPC/catkin_ws/devel/include/neural_network_msgs/NeuralNetworkFeedback.h
 string
 -
 vector
@@ -62,7 +62,7 @@ ros/message_operations.h
 std_msgs/Header.h
 -
 
-/home/catkin_ws/Airship-MPC/catkin_ws/devel/include/neural_network_detector/NeuralNetworkNumberOfDetections.h
+/home/catkin_ws/Airship-MPC/catkin_ws/devel/include/neural_network_msgs/NeuralNetworkNumberOfDetections.h
 string
 -
 vector
@@ -127,13 +127,13 @@ opencv2/core/core.hpp
 -
 image_transport/image_transport.h
 -
-neural_network_detector/NeuralNetworkDetection.h
+neural_network_msgs/NeuralNetworkDetection.h
 -
-neural_network_detector/NeuralNetworkDetectionArray.h
+neural_network_msgs/NeuralNetworkDetectionArray.h
 -
-neural_network_detector/NeuralNetworkFeedback.h
+neural_network_msgs/NeuralNetworkFeedback.h
 -
-neural_network_detector/NeuralNetworkNumberOfDetections.h
+neural_network_msgs/NeuralNetworkNumberOfDetections.h
 -
 cv/extensions/projection.h
 -
@@ -147,11 +147,11 @@ opencv2/core/core.hpp
 -
 image_transport/image_transport.h
 -
-neural_network_detector/NeuralNetworkDetection.h
+neural_network_msgs/NeuralNetworkDetection.h
 -
-neural_network_detector/NeuralNetworkDetectionArray.h
+neural_network_msgs/NeuralNetworkDetectionArray.h
 -
-neural_network_detector/NeuralNetworkFeedback.h
+neural_network_msgs/NeuralNetworkFeedback.h
 -
 cv/extensions/projection.h
 -
