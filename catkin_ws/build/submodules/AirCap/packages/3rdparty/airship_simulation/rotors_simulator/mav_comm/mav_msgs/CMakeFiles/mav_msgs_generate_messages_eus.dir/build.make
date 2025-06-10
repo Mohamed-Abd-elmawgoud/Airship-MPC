@@ -72,9 +72,9 @@ submodules/AirCap/packages/3rdparty/airship_simulation/rotors_simulator/mav_comm
 
 /home/catkin_ws/Airship-MPC/catkin_ws/devel/share/roseus/ros/mav_msgs/msg/AttitudeThrust.l: /opt/ros/noetic/lib/geneus/gen_eus.py
 /home/catkin_ws/Airship-MPC/catkin_ws/devel/share/roseus/ros/mav_msgs/msg/AttitudeThrust.l: /home/catkin_ws/Airship-MPC/catkin_ws/src/submodules/AirCap/packages/3rdparty/airship_simulation/rotors_simulator/mav_comm/mav_msgs/msg/AttitudeThrust.msg
+/home/catkin_ws/Airship-MPC/catkin_ws/devel/share/roseus/ros/mav_msgs/msg/AttitudeThrust.l: /opt/ros/noetic/share/geometry_msgs/msg/Quaternion.msg
 /home/catkin_ws/Airship-MPC/catkin_ws/devel/share/roseus/ros/mav_msgs/msg/AttitudeThrust.l: /opt/ros/noetic/share/geometry_msgs/msg/Vector3.msg
 /home/catkin_ws/Airship-MPC/catkin_ws/devel/share/roseus/ros/mav_msgs/msg/AttitudeThrust.l: /opt/ros/noetic/share/std_msgs/msg/Header.msg
-/home/catkin_ws/Airship-MPC/catkin_ws/devel/share/roseus/ros/mav_msgs/msg/AttitudeThrust.l: /opt/ros/noetic/share/geometry_msgs/msg/Quaternion.msg
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/catkin_ws/Airship-MPC/catkin_ws/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Generating EusLisp code from mav_msgs/AttitudeThrust.msg"
 	cd /home/catkin_ws/Airship-MPC/catkin_ws/build/submodules/AirCap/packages/3rdparty/airship_simulation/rotors_simulator/mav_comm/mav_msgs && ../../../../../../../../catkin_generated/env_cached.sh /usr/bin/python3 /opt/ros/noetic/share/geneus/cmake/../../../lib/geneus/gen_eus.py /home/catkin_ws/Airship-MPC/catkin_ws/src/submodules/AirCap/packages/3rdparty/airship_simulation/rotors_simulator/mav_comm/mav_msgs/msg/AttitudeThrust.msg -Imav_msgs:/home/catkin_ws/Airship-MPC/catkin_ws/src/submodules/AirCap/packages/3rdparty/airship_simulation/rotors_simulator/mav_comm/mav_msgs/msg -Istd_msgs:/opt/ros/noetic/share/std_msgs/cmake/../msg -Igeometry_msgs:/opt/ros/noetic/share/geometry_msgs/cmake/../msg -p mav_msgs -o /home/catkin_ws/Airship-MPC/catkin_ws/devel/share/roseus/ros/mav_msgs/msg
 
