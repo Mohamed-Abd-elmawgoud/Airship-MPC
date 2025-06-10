@@ -75,11 +75,11 @@ submodules/AirCap/packages/3rdparty/airship_simulation/rotors_simulator/mav_comm
 
 /home/catkin_ws/Airship-MPC/catkin_ws/devel/include/mav_planning_msgs/PointCloudWithPose.h: /opt/ros/noetic/lib/gencpp/gen_cpp.py
 /home/catkin_ws/Airship-MPC/catkin_ws/devel/include/mav_planning_msgs/PointCloudWithPose.h: /home/catkin_ws/Airship-MPC/catkin_ws/src/submodules/AirCap/packages/3rdparty/airship_simulation/rotors_simulator/mav_comm/mav_planning_msgs/msg/PointCloudWithPose.msg
-/home/catkin_ws/Airship-MPC/catkin_ws/devel/include/mav_planning_msgs/PointCloudWithPose.h: /opt/ros/noetic/share/geometry_msgs/msg/Vector3.msg
-/home/catkin_ws/Airship-MPC/catkin_ws/devel/include/mav_planning_msgs/PointCloudWithPose.h: /opt/ros/noetic/share/geometry_msgs/msg/Transform.msg
-/home/catkin_ws/Airship-MPC/catkin_ws/devel/include/mav_planning_msgs/PointCloudWithPose.h: /opt/ros/noetic/share/std_msgs/msg/Header.msg
 /home/catkin_ws/Airship-MPC/catkin_ws/devel/include/mav_planning_msgs/PointCloudWithPose.h: /opt/ros/noetic/share/sensor_msgs/msg/PointField.msg
+/home/catkin_ws/Airship-MPC/catkin_ws/devel/include/mav_planning_msgs/PointCloudWithPose.h: /opt/ros/noetic/share/geometry_msgs/msg/Transform.msg
 /home/catkin_ws/Airship-MPC/catkin_ws/devel/include/mav_planning_msgs/PointCloudWithPose.h: /opt/ros/noetic/share/sensor_msgs/msg/PointCloud2.msg
+/home/catkin_ws/Airship-MPC/catkin_ws/devel/include/mav_planning_msgs/PointCloudWithPose.h: /opt/ros/noetic/share/std_msgs/msg/Header.msg
+/home/catkin_ws/Airship-MPC/catkin_ws/devel/include/mav_planning_msgs/PointCloudWithPose.h: /opt/ros/noetic/share/geometry_msgs/msg/Vector3.msg
 /home/catkin_ws/Airship-MPC/catkin_ws/devel/include/mav_planning_msgs/PointCloudWithPose.h: /opt/ros/noetic/share/geometry_msgs/msg/TransformStamped.msg
 /home/catkin_ws/Airship-MPC/catkin_ws/devel/include/mav_planning_msgs/PointCloudWithPose.h: /opt/ros/noetic/share/geometry_msgs/msg/Quaternion.msg
 /home/catkin_ws/Airship-MPC/catkin_ws/devel/include/mav_planning_msgs/PointCloudWithPose.h: /opt/ros/noetic/share/gencpp/msg.h.template
@@ -95,18 +95,18 @@ submodules/AirCap/packages/3rdparty/airship_simulation/rotors_simulator/mav_comm
 
 /home/catkin_ws/Airship-MPC/catkin_ws/devel/include/mav_planning_msgs/PolygonWithHoles.h: /opt/ros/noetic/lib/gencpp/gen_cpp.py
 /home/catkin_ws/Airship-MPC/catkin_ws/devel/include/mav_planning_msgs/PolygonWithHoles.h: /home/catkin_ws/Airship-MPC/catkin_ws/src/submodules/AirCap/packages/3rdparty/airship_simulation/rotors_simulator/mav_comm/mav_planning_msgs/msg/PolygonWithHoles.msg
-/home/catkin_ws/Airship-MPC/catkin_ws/devel/include/mav_planning_msgs/PolygonWithHoles.h: /home/catkin_ws/Airship-MPC/catkin_ws/src/submodules/AirCap/packages/3rdparty/airship_simulation/rotors_simulator/mav_comm/mav_planning_msgs/msg/Polygon2D.msg
 /home/catkin_ws/Airship-MPC/catkin_ws/devel/include/mav_planning_msgs/PolygonWithHoles.h: /home/catkin_ws/Airship-MPC/catkin_ws/src/submodules/AirCap/packages/3rdparty/airship_simulation/rotors_simulator/mav_comm/mav_planning_msgs/msg/Point2D.msg
+/home/catkin_ws/Airship-MPC/catkin_ws/devel/include/mav_planning_msgs/PolygonWithHoles.h: /home/catkin_ws/Airship-MPC/catkin_ws/src/submodules/AirCap/packages/3rdparty/airship_simulation/rotors_simulator/mav_comm/mav_planning_msgs/msg/Polygon2D.msg
 /home/catkin_ws/Airship-MPC/catkin_ws/devel/include/mav_planning_msgs/PolygonWithHoles.h: /opt/ros/noetic/share/gencpp/msg.h.template
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/catkin_ws/Airship-MPC/catkin_ws/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Generating C++ code from mav_planning_msgs/PolygonWithHoles.msg"
 	cd /home/catkin_ws/Airship-MPC/catkin_ws/src/submodules/AirCap/packages/3rdparty/airship_simulation/rotors_simulator/mav_comm/mav_planning_msgs && /home/catkin_ws/Airship-MPC/catkin_ws/build/catkin_generated/env_cached.sh /usr/bin/python3 /opt/ros/noetic/share/gencpp/cmake/../../../lib/gencpp/gen_cpp.py /home/catkin_ws/Airship-MPC/catkin_ws/src/submodules/AirCap/packages/3rdparty/airship_simulation/rotors_simulator/mav_comm/mav_planning_msgs/msg/PolygonWithHoles.msg -Imav_planning_msgs:/home/catkin_ws/Airship-MPC/catkin_ws/src/submodules/AirCap/packages/3rdparty/airship_simulation/rotors_simulator/mav_comm/mav_planning_msgs/msg -Igeometry_msgs:/opt/ros/noetic/share/geometry_msgs/cmake/../msg -Isensor_msgs:/opt/ros/noetic/share/sensor_msgs/cmake/../msg -Istd_msgs:/opt/ros/noetic/share/std_msgs/cmake/../msg -Imav_msgs:/home/catkin_ws/Airship-MPC/catkin_ws/src/submodules/AirCap/packages/3rdparty/airship_simulation/rotors_simulator/mav_comm/mav_msgs/msg -Itrajectory_msgs:/opt/ros/noetic/share/trajectory_msgs/cmake/../msg -p mav_planning_msgs -o /home/catkin_ws/Airship-MPC/catkin_ws/devel/include/mav_planning_msgs -e /opt/ros/noetic/share/gencpp/cmake/..
 
 /home/catkin_ws/Airship-MPC/catkin_ws/devel/include/mav_planning_msgs/PolygonWithHolesStamped.h: /opt/ros/noetic/lib/gencpp/gen_cpp.py
 /home/catkin_ws/Airship-MPC/catkin_ws/devel/include/mav_planning_msgs/PolygonWithHolesStamped.h: /home/catkin_ws/Airship-MPC/catkin_ws/src/submodules/AirCap/packages/3rdparty/airship_simulation/rotors_simulator/mav_comm/mav_planning_msgs/msg/PolygonWithHolesStamped.msg
-/home/catkin_ws/Airship-MPC/catkin_ws/devel/include/mav_planning_msgs/PolygonWithHolesStamped.h: /home/catkin_ws/Airship-MPC/catkin_ws/src/submodules/AirCap/packages/3rdparty/airship_simulation/rotors_simulator/mav_comm/mav_planning_msgs/msg/Polygon2D.msg
-/home/catkin_ws/Airship-MPC/catkin_ws/devel/include/mav_planning_msgs/PolygonWithHolesStamped.h: /home/catkin_ws/Airship-MPC/catkin_ws/src/submodules/AirCap/packages/3rdparty/airship_simulation/rotors_simulator/mav_comm/mav_planning_msgs/msg/Point2D.msg
 /home/catkin_ws/Airship-MPC/catkin_ws/devel/include/mav_planning_msgs/PolygonWithHolesStamped.h: /home/catkin_ws/Airship-MPC/catkin_ws/src/submodules/AirCap/packages/3rdparty/airship_simulation/rotors_simulator/mav_comm/mav_planning_msgs/msg/PolygonWithHoles.msg
+/home/catkin_ws/Airship-MPC/catkin_ws/devel/include/mav_planning_msgs/PolygonWithHolesStamped.h: /home/catkin_ws/Airship-MPC/catkin_ws/src/submodules/AirCap/packages/3rdparty/airship_simulation/rotors_simulator/mav_comm/mav_planning_msgs/msg/Point2D.msg
 /home/catkin_ws/Airship-MPC/catkin_ws/devel/include/mav_planning_msgs/PolygonWithHolesStamped.h: /opt/ros/noetic/share/std_msgs/msg/Header.msg
+/home/catkin_ws/Airship-MPC/catkin_ws/devel/include/mav_planning_msgs/PolygonWithHolesStamped.h: /home/catkin_ws/Airship-MPC/catkin_ws/src/submodules/AirCap/packages/3rdparty/airship_simulation/rotors_simulator/mav_comm/mav_planning_msgs/msg/Polygon2D.msg
 /home/catkin_ws/Airship-MPC/catkin_ws/devel/include/mav_planning_msgs/PolygonWithHolesStamped.h: /opt/ros/noetic/share/gencpp/msg.h.template
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/catkin_ws/Airship-MPC/catkin_ws/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Generating C++ code from mav_planning_msgs/PolygonWithHolesStamped.msg"
 	cd /home/catkin_ws/Airship-MPC/catkin_ws/src/submodules/AirCap/packages/3rdparty/airship_simulation/rotors_simulator/mav_comm/mav_planning_msgs && /home/catkin_ws/Airship-MPC/catkin_ws/build/catkin_generated/env_cached.sh /usr/bin/python3 /opt/ros/noetic/share/gencpp/cmake/../../../lib/gencpp/gen_cpp.py /home/catkin_ws/Airship-MPC/catkin_ws/src/submodules/AirCap/packages/3rdparty/airship_simulation/rotors_simulator/mav_comm/mav_planning_msgs/msg/PolygonWithHolesStamped.msg -Imav_planning_msgs:/home/catkin_ws/Airship-MPC/catkin_ws/src/submodules/AirCap/packages/3rdparty/airship_simulation/rotors_simulator/mav_comm/mav_planning_msgs/msg -Igeometry_msgs:/opt/ros/noetic/share/geometry_msgs/cmake/../msg -Isensor_msgs:/opt/ros/noetic/share/sensor_msgs/cmake/../msg -Istd_msgs:/opt/ros/noetic/share/std_msgs/cmake/../msg -Imav_msgs:/home/catkin_ws/Airship-MPC/catkin_ws/src/submodules/AirCap/packages/3rdparty/airship_simulation/rotors_simulator/mav_comm/mav_msgs/msg -Itrajectory_msgs:/opt/ros/noetic/share/trajectory_msgs/cmake/../msg -p mav_planning_msgs -o /home/catkin_ws/Airship-MPC/catkin_ws/devel/include/mav_planning_msgs -e /opt/ros/noetic/share/gencpp/cmake/..
@@ -143,19 +143,19 @@ submodules/AirCap/packages/3rdparty/airship_simulation/rotors_simulator/mav_comm
 
 /home/catkin_ws/Airship-MPC/catkin_ws/devel/include/mav_planning_msgs/PlannerService.h: /opt/ros/noetic/lib/gencpp/gen_cpp.py
 /home/catkin_ws/Airship-MPC/catkin_ws/devel/include/mav_planning_msgs/PlannerService.h: /home/catkin_ws/Airship-MPC/catkin_ws/src/submodules/AirCap/packages/3rdparty/airship_simulation/rotors_simulator/mav_comm/mav_planning_msgs/srv/PlannerService.srv
-/home/catkin_ws/Airship-MPC/catkin_ws/devel/include/mav_planning_msgs/PlannerService.h: /home/catkin_ws/Airship-MPC/catkin_ws/src/submodules/AirCap/packages/3rdparty/airship_simulation/rotors_simulator/mav_comm/mav_planning_msgs/msg/PolynomialTrajectory4D.msg
-/home/catkin_ws/Airship-MPC/catkin_ws/devel/include/mav_planning_msgs/PlannerService.h: /opt/ros/noetic/share/geometry_msgs/msg/Vector3.msg
-/home/catkin_ws/Airship-MPC/catkin_ws/devel/include/mav_planning_msgs/PlannerService.h: /opt/ros/noetic/share/geometry_msgs/msg/PoseStamped.msg
-/home/catkin_ws/Airship-MPC/catkin_ws/devel/include/mav_planning_msgs/PlannerService.h: /opt/ros/noetic/share/geometry_msgs/msg/Transform.msg
-/home/catkin_ws/Airship-MPC/catkin_ws/devel/include/mav_planning_msgs/PlannerService.h: /home/catkin_ws/Airship-MPC/catkin_ws/src/submodules/AirCap/packages/3rdparty/airship_simulation/rotors_simulator/mav_comm/mav_planning_msgs/msg/PolynomialSegment4D.msg
-/home/catkin_ws/Airship-MPC/catkin_ws/devel/include/mav_planning_msgs/PlannerService.h: /opt/ros/noetic/share/trajectory_msgs/msg/MultiDOFJointTrajectory.msg
+/home/catkin_ws/Airship-MPC/catkin_ws/devel/include/mav_planning_msgs/PlannerService.h: /opt/ros/noetic/share/geometry_msgs/msg/Twist.msg
 /home/catkin_ws/Airship-MPC/catkin_ws/devel/include/mav_planning_msgs/PlannerService.h: /opt/ros/noetic/share/geometry_msgs/msg/Point.msg
+/home/catkin_ws/Airship-MPC/catkin_ws/devel/include/mav_planning_msgs/PlannerService.h: /opt/ros/noetic/share/geometry_msgs/msg/PoseStamped.msg
+/home/catkin_ws/Airship-MPC/catkin_ws/devel/include/mav_planning_msgs/PlannerService.h: /opt/ros/noetic/share/trajectory_msgs/msg/MultiDOFJointTrajectory.msg
+/home/catkin_ws/Airship-MPC/catkin_ws/devel/include/mav_planning_msgs/PlannerService.h: /opt/ros/noetic/share/geometry_msgs/msg/Pose.msg
+/home/catkin_ws/Airship-MPC/catkin_ws/devel/include/mav_planning_msgs/PlannerService.h: /home/catkin_ws/Airship-MPC/catkin_ws/src/submodules/AirCap/packages/3rdparty/airship_simulation/rotors_simulator/mav_comm/mav_planning_msgs/msg/PolynomialSegment.msg
+/home/catkin_ws/Airship-MPC/catkin_ws/devel/include/mav_planning_msgs/PlannerService.h: /opt/ros/noetic/share/geometry_msgs/msg/Transform.msg
+/home/catkin_ws/Airship-MPC/catkin_ws/devel/include/mav_planning_msgs/PlannerService.h: /opt/ros/noetic/share/trajectory_msgs/msg/MultiDOFJointTrajectoryPoint.msg
+/home/catkin_ws/Airship-MPC/catkin_ws/devel/include/mav_planning_msgs/PlannerService.h: /home/catkin_ws/Airship-MPC/catkin_ws/src/submodules/AirCap/packages/3rdparty/airship_simulation/rotors_simulator/mav_comm/mav_planning_msgs/msg/PolynomialSegment4D.msg
 /home/catkin_ws/Airship-MPC/catkin_ws/devel/include/mav_planning_msgs/PlannerService.h: /opt/ros/noetic/share/std_msgs/msg/Header.msg
 /home/catkin_ws/Airship-MPC/catkin_ws/devel/include/mav_planning_msgs/PlannerService.h: /home/catkin_ws/Airship-MPC/catkin_ws/src/submodules/AirCap/packages/3rdparty/airship_simulation/rotors_simulator/mav_comm/mav_planning_msgs/msg/PolynomialTrajectory.msg
-/home/catkin_ws/Airship-MPC/catkin_ws/devel/include/mav_planning_msgs/PlannerService.h: /home/catkin_ws/Airship-MPC/catkin_ws/src/submodules/AirCap/packages/3rdparty/airship_simulation/rotors_simulator/mav_comm/mav_planning_msgs/msg/PolynomialSegment.msg
-/home/catkin_ws/Airship-MPC/catkin_ws/devel/include/mav_planning_msgs/PlannerService.h: /opt/ros/noetic/share/trajectory_msgs/msg/MultiDOFJointTrajectoryPoint.msg
-/home/catkin_ws/Airship-MPC/catkin_ws/devel/include/mav_planning_msgs/PlannerService.h: /opt/ros/noetic/share/geometry_msgs/msg/Pose.msg
-/home/catkin_ws/Airship-MPC/catkin_ws/devel/include/mav_planning_msgs/PlannerService.h: /opt/ros/noetic/share/geometry_msgs/msg/Twist.msg
+/home/catkin_ws/Airship-MPC/catkin_ws/devel/include/mav_planning_msgs/PlannerService.h: /opt/ros/noetic/share/geometry_msgs/msg/Vector3.msg
+/home/catkin_ws/Airship-MPC/catkin_ws/devel/include/mav_planning_msgs/PlannerService.h: /home/catkin_ws/Airship-MPC/catkin_ws/src/submodules/AirCap/packages/3rdparty/airship_simulation/rotors_simulator/mav_comm/mav_planning_msgs/msg/PolynomialTrajectory4D.msg
 /home/catkin_ws/Airship-MPC/catkin_ws/devel/include/mav_planning_msgs/PlannerService.h: /opt/ros/noetic/share/geometry_msgs/msg/Quaternion.msg
 /home/catkin_ws/Airship-MPC/catkin_ws/devel/include/mav_planning_msgs/PlannerService.h: /opt/ros/noetic/share/gencpp/msg.h.template
 /home/catkin_ws/Airship-MPC/catkin_ws/devel/include/mav_planning_msgs/PlannerService.h: /opt/ros/noetic/share/gencpp/srv.h.template
@@ -165,8 +165,8 @@ submodules/AirCap/packages/3rdparty/airship_simulation/rotors_simulator/mav_comm
 /home/catkin_ws/Airship-MPC/catkin_ws/devel/include/mav_planning_msgs/PolygonService.h: /opt/ros/noetic/lib/gencpp/gen_cpp.py
 /home/catkin_ws/Airship-MPC/catkin_ws/devel/include/mav_planning_msgs/PolygonService.h: /home/catkin_ws/Airship-MPC/catkin_ws/src/submodules/AirCap/packages/3rdparty/airship_simulation/rotors_simulator/mav_comm/mav_planning_msgs/srv/PolygonService.srv
 /home/catkin_ws/Airship-MPC/catkin_ws/devel/include/mav_planning_msgs/PolygonService.h: /home/catkin_ws/Airship-MPC/catkin_ws/src/submodules/AirCap/packages/3rdparty/airship_simulation/rotors_simulator/mav_comm/mav_planning_msgs/msg/PolygonWithHoles.msg
-/home/catkin_ws/Airship-MPC/catkin_ws/devel/include/mav_planning_msgs/PolygonService.h: /opt/ros/noetic/share/std_msgs/msg/Header.msg
 /home/catkin_ws/Airship-MPC/catkin_ws/devel/include/mav_planning_msgs/PolygonService.h: /home/catkin_ws/Airship-MPC/catkin_ws/src/submodules/AirCap/packages/3rdparty/airship_simulation/rotors_simulator/mav_comm/mav_planning_msgs/msg/PolygonWithHolesStamped.msg
+/home/catkin_ws/Airship-MPC/catkin_ws/devel/include/mav_planning_msgs/PolygonService.h: /opt/ros/noetic/share/std_msgs/msg/Header.msg
 /home/catkin_ws/Airship-MPC/catkin_ws/devel/include/mav_planning_msgs/PolygonService.h: /home/catkin_ws/Airship-MPC/catkin_ws/src/submodules/AirCap/packages/3rdparty/airship_simulation/rotors_simulator/mav_comm/mav_planning_msgs/msg/Polygon2D.msg
 /home/catkin_ws/Airship-MPC/catkin_ws/devel/include/mav_planning_msgs/PolygonService.h: /home/catkin_ws/Airship-MPC/catkin_ws/src/submodules/AirCap/packages/3rdparty/airship_simulation/rotors_simulator/mav_comm/mav_planning_msgs/msg/Point2D.msg
 /home/catkin_ws/Airship-MPC/catkin_ws/devel/include/mav_planning_msgs/PolygonService.h: /opt/ros/noetic/share/gencpp/msg.h.template
