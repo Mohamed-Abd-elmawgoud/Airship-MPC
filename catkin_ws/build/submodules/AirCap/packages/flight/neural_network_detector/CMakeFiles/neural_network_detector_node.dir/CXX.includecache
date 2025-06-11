@@ -144,10 +144,6 @@ neural_network_detector/NNDetector.h
 cv_bridge/cv_bridge.h
 -
 
-/home/catkin_ws/Airship-MPC/catkin_ws/src/submodules/AirCap/packages/flight/neural_network_detector/src/neural_network_detector_node.cpp
-neural_network_detector/NNDetector.h
--
-
 /opt/ros/noetic/include/cv_bridge/cv_bridge.h
 sensor_msgs/Image.h
 -
