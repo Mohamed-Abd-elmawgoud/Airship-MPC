@@ -37,18 +37,18 @@ screen -d -m -S GAZEBO bash -i -c "source ../../catkin_ws/devel/setup.bash; rosl
 #roslaunch rotors_gazebo world.launch world_name:=arena_HKT_2 --screen &
 # rosrun uavPidParamServer pid_serverNode &
 sleep 10
-echo "Launching rviz..."
-screen -d -m -S RVIZ bash -i -c "source ../../catkin_ws/devel/setup.bash; rviz -d ../../submodules/AirCap/packages/3rdparty/airship_simulation/blimp_description/rviz/3_blimp_nmpc.rviz"
-sleep 5
-echo "Starting Deep Neural Network Server..."
-screen -d -m -S SSDSERVER bash -i -c "./ssd_server.sh 0"
-sleep 5
+# echo "Launching rviz..."
+# screen -d -m -S RVIZ bash -i -c "source ../../catkin_ws/devel/setup.bash; rviz -d ../../submodules/AirCap/packages/3rdparty/airship_simulation/blimp_description/rviz/3_blimp_nmpc.rviz"
+# sleep 5
+# echo "Starting Deep Neural Network Server..."
+# screen -d -m -S SSDSERVER bash -i -c "./ssd_server.sh 0"
+# sleep 5
 #roslaunch random_moving_target spawn_move_target_withID.launch joyDevName:=0 directUseForFormation:=true --screen &
 #sleep 3
 #roslaunch random_moving_target publish_target.launch joyDevName:=0 directUseForFormation:=true --screen &
-echo "Starting GCS Visualization framework..."
-screen -d -m -S GCSVIS bash -i -c "source ../../catkin_ws/devel/setup.bash; rosrun gcs_visualization gcs_visualization_node $ROBOS 30 1 0 arrow 8"
-sleep 3
+# echo "Starting GCS Visualization framework..."
+# screen -d -m -S GCSVIS bash -i -c "source ../../catkin_ws/devel/setup.bash; rosrun gcs_visualization gcs_visualization_node $ROBOS 30 1 0 arrow 8"
+# sleep 3
 #spawn target
 echo "Spawning target"
 screen -d -m -S TARGET bash -i -c "source ../../catkin_ws/devel/setup.bash; roslaunch random_moving_target spawn_target_withID.launch joyDevName:=0 directUseForFormation:=true --screen"

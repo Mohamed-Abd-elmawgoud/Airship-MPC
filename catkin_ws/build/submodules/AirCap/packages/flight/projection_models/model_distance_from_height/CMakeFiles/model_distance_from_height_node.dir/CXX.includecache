@@ -156,10 +156,6 @@ tf/transform_datatypes.h
 sensor_msgs/CameraInfo.h
 -
 
-/home/catkin_ws/Airship-MPC/catkin_ws/src/submodules/AirCap/packages/flight/projection_models/model_distance_from_height/src/models/Model3D.cpp
-model_distance_from_height/models/Model3D.h
--
-
 /opt/ros/noetic/include/dynamic_reconfigure/BoolParameter.h
 string
 -
